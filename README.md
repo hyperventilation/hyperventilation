@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on mincarft bulding
 - 🤔 I’m looking for help with c programing langua
 - 💬 Ask me about cats
-- 📫 How to reach me: no.
+- 📫 How to reach me: email 
 - 😄 Pronouns: many
 - ⚡ Fun fact: cat
