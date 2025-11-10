@@ -9,7 +9,4 @@
   " target="_blank"><img src="http://img.youtube.com/vi/Bs_Tm1iGV-4/0.jpg" 
   alt="7" width="240" height="180" border="100" /></a>
 </p>
-
-
-```math
-fancy text i love
+<p align="center"> <a href="https://wakatime.com/@018c3a2b-d06a-407f-bc66-4ac678296126"><img src="https://wakatime.com/badge/user/018c3a2b-d06a-407f-bc66-4ac678296126.svg" alt="Total time coded since Dec 5 2023" /></a> </p>
